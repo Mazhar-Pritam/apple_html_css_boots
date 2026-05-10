@@ -32,7 +32,7 @@ header nav ul li a {
 .hero  {
     color: rgba(223, 119, 119, 0.884);
     text-align:left;
-    background-image: url(./assets/img/mothers-day-header-flower-background-202604.png);
+    background-image: url(mothers-day-header-flower-background-202604.png);
     width: 100%;
     height: 300px;
     padding: 30;
@@ -50,7 +50,7 @@ text-align: center;
     text-align: center;
 }
 .hero2 {
-    background-image: url(apple-watch-logo.png);
+    background-image: url(watchultra.jpg);
 }
 .second {
     background-color: oklab(96.792% 0.00102 0.00021);
