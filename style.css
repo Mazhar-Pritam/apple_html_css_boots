@@ -1,0 +1,106 @@
+* {
+   box-sizing: border-box;
+    font-size:medium;
+}
+header {
+    background-color: rgb(255, 255, 255);
+    color:rgb(14, 13, 13);
+    text-align: center;
+    padding: 3px;
+    
+}
+header nav ul li {
+   text-decoration: none;
+    display: inline;
+    margin: 5px;
+    
+}
+header nav ul li a {
+    text-decoration: none;
+}
+.sub-nav {
+    background-color:rgb(224, 238, 250);
+    text-align: center;
+    padding: 10px;
+}
+.sub-nav span {
+    color:blueviolet;
+}
+.btn btn-primary {
+    color: #525050;
+}
+.hero  {
+    color: rgba(223, 119, 119, 0.884);
+    text-align:left;
+    background-image: url(./assets/img/mothers-day-header-flower-background-202604.png);
+    width: 100%;
+    height: 300px;
+    padding: 30;
+}
+.hero h1 {
+    text-align:left;
+    color: rgb(212, 57, 57);
+}
+.hero h2 {
+color:#525050;
+text-align: center;
+}
+.hero h3 {
+    color: #4e4e4e;
+    text-align: center;
+}
+.hero2 {
+    background-image: url(apple-watch-logo.png);
+}
+.second {
+    background-color: oklab(96.792% 0.00102 0.00021);
+    color:rgb(17, 17, 17);
+    text-align: center;
+    padding: 50.;
+    
+}
+.second button {
+    color: rgb(241, 241, 241);
+}
+.second h1 {
+    margin-bottom: 5px;
+    
+color: #525050;
+}
+.second h5 {
+    color: #525050;
+    margin-bottom: 5px;
+}
+.third {
+    background-color: oklab(96.792% 0.00102 0.00021);
+    color:rgb(17, 17, 17);
+    text-align: center;
+    padding: 50; }
+
+.third button {
+    color: rgb(241, 241, 241);
+}
+.third h1 {
+    margin-bottom: 5px;
+    
+color: #525050;
+}
+.second h5 {
+    color: #525050;
+    margin-bottom: 5px;
+}
+.box {
+    width:49%;
+    background-color: white;
+    color: #525050;
+    margin: 6px;
+}
+.main   {
+    display:flex;
+    margin:10px;
+    text-align: center;
+    padding-top: 10px;
+}
+.box img {
+    width: 600px;
+}
