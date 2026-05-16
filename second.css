@@ -16,10 +16,17 @@ body{
 .dark-card{
     background: black;
     color: white;
+    
+}
+.dark-card p {
+    background: black;
+    color: white;
+    font-size: larger;
+
 }
 .w-card {
     background-color: white;
-    color: #000000;
+    color: #525050;
 }
 
 .product-card img{
@@ -35,4 +42,8 @@ body{
 
 h2{
     font-weight: bold;
+}
+* {
+    color: #525050;
+    font-size: small;
 }
